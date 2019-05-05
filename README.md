@@ -1,6 +1,3 @@
-# calculate
-四则运算
-控制台程序
 
 使用说明：
 calculator.exe -g 100 output.txt
